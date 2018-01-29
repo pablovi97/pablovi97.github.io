@@ -1,0 +1,10 @@
+site_name: Mis documentos
+
+pages:
+    - Introduction: 'index.md'
+    - User Guide: menu/user-guide.md
+    - submenu: 
+        - menu: menu/user-guide.md
+
+extra_css:
+  - extra_css/extra.css
